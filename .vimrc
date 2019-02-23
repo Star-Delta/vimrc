@@ -1,5 +1,10 @@
+"文字コード関連
 set encoding=utf-8
 scriptencoding utf-8
-set number
+
+"インデント関連
 set tabstop=4
 set autoindent
+
+"その他
+set number

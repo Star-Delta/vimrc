@@ -7,4 +7,5 @@ set tabstop=4
 set autoindent
 
 "その他
-set number
+set number	"行数表示
+syntax enable	"カラー表示
